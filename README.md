@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->    
 
-- 🔭 I’m currently working on my Community Board project for CodePath WEB102! 
+- 🔭 I’m currently working on my FlashCards project for CodePath WEB102! 
 - 🌱 I’m currently learning React + Vite, Cybersecurity and Networking!
 - 👯 I’m looking to collaborate with someone who's passionate about creating digital/traditional art and seeks to incorporate coding into their work of ART✨!
 
