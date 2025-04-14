@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->    
 
-- 🔭 I’m currently working on my FlashCards project for CodePath WEB102! 
-- 🌱 I’m currently learning React + Vite, Cybersecurity and Networking!
-- 👯 I’m looking to collaborate with someone who's passionate about creating digital/traditional art and seeks to incorporate coding into their work of ART✨!
+💡 I'm an aspiring cybersecurity professional with a passion for solving problems and exploring the world of digital security.
+🔍 Inspired by documentaries about digital forensics, data privacy, and how information can be misused, like scams or breaches during computer repairs.
+🛡️ Passionate about learning how to protect people and systems from exploitation.
+
+>>Diving into the exciting field of cybersecurity and looking to expand my skills through hands-on projects and collaborations. Feel free to check out my repositories as I continue learning and building!
+
+Currently...
+- 🔭 Taking CodePath's Cybersecurity 101 
+- 📖 Studying for COMPTIA Security+
+- ✨ Learning Python!
+
 
