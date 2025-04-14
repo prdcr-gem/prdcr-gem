@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->    
 
-💡 I'm an aspiring cybersecurity professional with a passion for solving problems and exploring the world of digital security.
-🔍 Inspired by documentaries about digital forensics, data privacy, and how information can be misused, like scams or breaches during computer repairs.
-🛡️ Passionate about learning how to protect people and systems from exploitation.
+- 💡 I'm an aspiring cybersecurity professional with a passion for solving problems and exploring the world of digital security.
+- 🔍 Inspired by documentaries about digital forensics, data privacy, and how information can be misused, like scams or breaches during computer repairs.
+- 🛡️ Passionate about learning how to protect people and systems from exploitation.
 
 >>Diving into the exciting field of cybersecurity and looking to expand my skills through hands-on projects and collaborations. Feel free to check out my repositories as I continue learning and building!
 
