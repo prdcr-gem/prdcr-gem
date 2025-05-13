@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 >>Diving into the exciting field of cybersecurity and looking to expand my skills through hands-on projects and collaborations. Feel free to check out my repositories as I continue learning and building!
 
 Currently...
-- 🔭 Taking CodePath's Cybersecurity 101 
+- 🔭 Taking CodePath's Cybersecurity 102 
 - 📖 Studying for COMPTIA Security+
 - ✨ Learning Python!
 
