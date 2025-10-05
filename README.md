@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Geraldine
-Your fellow artist and hacker!
+Your fellow artist and hacker! COMPTIA SECT+ CERTIFIED!
 
 <!--
 **prdcr-gem/prdcr-gem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 >>Diving into the exciting field of cybersecurity and looking to expand my skills through hands-on projects and collaborations. Feel free to check out my repositories as I continue learning and building!
 
 Currently...
-- 🔭 Taking CodePath's Cybersecurity 102 
-- 📖 Studying for COMPTIA Security+
-- ✨ Learning Python!
+- 🔭 Competing in Kapwa CodeFest!! (FAMT - Filipino American in Tech) 
+- 📖 Studying none atm...
+- ✨ Learning basic structures of art
 
 
